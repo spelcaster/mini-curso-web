@@ -1,0 +1,19 @@
+{
+    "name": "hugocarmo/todo",
+    "description": "Aplicativo TODO",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hugo do Carmo",
+            "email": "hugrito.kun@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
